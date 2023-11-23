@@ -12,6 +12,7 @@ body{
     margin-bottom: 5vh;
     margin-left: 35%;
     background-color: rgb(141, 0, 0);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
     border-radius: 15px;
 }
 
